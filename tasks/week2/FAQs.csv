@@ -1,0 +1,11 @@
+question,answer
+"What is Python?","Python is a high-level programming language."
+"How do I install Python?","Download Python from python.org and follow the installation instructions."
+"What is Git?","Git is a version control system for tracking changes in code."
+"What is GitHub?","GitHub is an online platform for hosting and collaborating on Git repositories."
+"What is machine learning?","Machine learning enables computers to learn patterns from data."
+"What is semantic search?","Semantic search finds information based on meaning rather than exact keyword matches."
+"What is Pandas?","Pandas is a Python library for data manipulation and analysis."
+"What is a database?","A database stores and organizes information."
+"What is an API?","An API allows different software applications to communicate."
+"What is artificial intelligence?","Artificial intelligence enables machines to perform tasks that typically require human intelligence."

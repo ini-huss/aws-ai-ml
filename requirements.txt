@@ -3,3 +3,5 @@ pandas
 jupyter
 ipykernel
 matplotlib
+chromadb
+sentence-transformers
